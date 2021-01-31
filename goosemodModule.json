@@ -1,0 +1,13 @@
+{
+  "main": "src/index.js",
+  "version": "1.0.5",
+
+  "name": "Owner Tag",
+  "description": "Adds a tag or crown to the server owner (or admins/management).",
+  "tags": ["ui"],
+  "authors": ["213247101314924545"],
+  "images": [
+    "https://raw.githubusercontent.com/Controlfreak707/GM-Owner-Tag/main/images/image-a.png",
+    "https://raw.githubusercontent.com/Controlfreak707/GM-Owner-Tag/main/images/image-b.png"
+  ]
+}
